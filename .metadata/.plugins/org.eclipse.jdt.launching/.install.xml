@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/home/zemzem/.sdkman/candidates/java/8.0.422-albba" stamp="1724742960000"/>
+    <entry loc="/usr/lib/jvm/java-22-openjdk" stamp="1729521972423"/>
+    <entry loc="/usr/lib/jvm/java-8-openjdk" stamp="1728911718190"/>
+    <entry loc="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.4.v20240802-1551" stamp="1728549654388"/>
+    <entry loc="/home/zemzem/.sdkman/candidates/java/22.0.2-graalce" stamp="1729522350000"/>
+    <entry loc="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.4.v20240802-1551/jre" stamp="1728549654622"/>
+</dirs>

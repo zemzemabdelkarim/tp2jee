@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/zemzem/.sdkman/candidates/java/8.0.422-albba" version="1.8.0_422">
+        <bootpath>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/resources.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/rt.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/sunrsasign.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/jsse.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/jce.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/charsets.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/jfr.jar"/>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/zemzem/.sdkman/candidates/java/8.0.422-albba/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-22-openjdk" version="22.0.2"/>
+    <libraryInfo home="/usr/lib/jvm/java-8-openjdk" version="1.8.0_422">
+        <bootpath>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/sunrsasign.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/usr/lib/jvm/java-8-openjdk/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.4.v20240802-1551" version="21.0.4">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/zemzem/.sdkman/candidates/java/22.0.2-graalce" version="22.0.2"/>
+    <libraryInfo home="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.4.v20240802-1551/jre" version="21.0.4"/>
+</libraryInfos>
